@@ -1,11 +1,24 @@
 
+* {
+
+ font-family: Arial, Helvetica, sans-serif;   
+
+}
+
+
 .sezione-principale {
 
 background-color: bisque;
 color: white;
 margin: auto;
-width: max-content;
+width: 350px;
 padding: 8px 24px;
 border-radius: 10%;
+
+}
+
+.unico-paragrafo {
+
+font-weight: 700;
 
 }
